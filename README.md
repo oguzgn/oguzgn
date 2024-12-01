@@ -4,6 +4,8 @@ Welcome to my GitHub! Here, you'll find a blend of analytics, engineering, and c
 ---
 
 ## 🌟 About Me  
+
+
 🎓 **Industrial Engineer** with a passion for leveraging data to solve real-world problems.  
 
 📜 Certified in **Google Data Analytics**, **Google Business Intelligence**, and **AWS Data Engineering**, along with 50+ other certifications in analytics and engineering.
